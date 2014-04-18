@@ -1,0 +1,4 @@
+nettech_drupal:
+    resource: "@NettechDrupalBundle/Resources/config/routing.yml"
+    prefix:   /
+

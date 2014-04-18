@@ -1,0 +1,8 @@
+nettechdemo:
+    resource: "@nettechdemoBundle/Resources/config/routing.yml"
+    prefix:   /
+
+nettechdrupal:
+    resource: "@nettechdrupalBundle/Resources/config/routing.yml"
+    prefix:   /
+
